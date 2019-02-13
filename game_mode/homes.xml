@@ -1,0 +1,44 @@
+<homes>
+    <houses>
+        <house num="0" interior="0" x="693.5478515625" y="-1705.779296875" z="3.8194825649261" cost="99999999" owner="" dim="1" />
+        <house num="1" interior="1" x="694.8330078125" y="-1689.845703125" z="4.3461227416992" cost="5000000" owner="" dim="1" />
+        <house num="2" interior="2" x="693.7587890625" y="-1645.810546875" z="4.09375" cost="7500000" owner="" dim="2" />
+        <house num="3" interior="3" x="697.28125" y="-1627.0498046875" z="3.7491700649261" cost="5000000" owner="" dim="3" />
+        <house num="4" interior="4" x="692.9052734375" y="-1602.765625" z="15.046875" cost="7500000" owner="" dim="4" />
+        <house num="5" interior="5" x="281.0576171875" y="-1767.8349609375" z="4.5379176139832" cost="600000" owner="Jimmy_Cole" dim="0" lockstate="lock" />
+        <house num="6" interior="6" x="192.8681640625" y="-1769.4072265625" z="4.3276805877686" cost="750000" owner="Webster_Millege" dim="0" lockstate="unlock" />
+        <house num="7" interior="7" x="167.9814453125" y="-1769.7197265625" z="4.4581542015076" cost="900000" owner="Brian_Devis" dim="900" lockstate="unlock" />
+        <house num="8" interior="8" x="315.267578125" y="-1770.67578125" z="4.6620707511902" cost="700050" owner="Uncas_Wolf" dim="6" lockstate="lock" />
+    </houses>
+    <interiors>
+        <!-- Noral Safe Houses -->
+        <interior num="0" id="3" x="2496.02" y="-1692.10" z="1014.74" />
+        <!-- Johnsons -->
+        <interior num="1" id="1" x="223.22" y="1287.27" z="1082.14" />
+        <interior num="2" id="4" x="260.98" y="1284.55" z="1080.25" />
+        <interior num="3" id="5" x="140.21" y="1366.91" z="1083.85" />
+        <interior num="4" id="9" x="82.94" y="1322.44" z="1083.86" />
+        <interior num="5" id="15" x="-283.85" y="1470.96" z="1084.375" />
+        <interior num="6" id="4" x="-260.60" y="1456.62" z="1084.37" />
+        <interior num="7" id="8" x="-42.78" y="1405.75" z="1084.43" />
+        <interior num="8" id="6" x="-68.69" y="1351.97" z="1080.21" />
+        <interior num="9" id="6" x="2333.05" y="-1077.14" z="1049.02" />
+        <interior num="10" id="5" x="2233.77" y="-1115.03" z="1050.88" />
+        <interior num="11" id="8" x="2365.30" y="-1134.92" z="1050.875" />
+        <interior num="12" id="11" x="2282.91" y="-1140.29" z="1050.90" />
+        <interior num="13" id="6" x="2196.79" y="-1204.35" z="1049.02" />
+        <interior num="14" id="10" x="2270.38" y="-1210.45" z="1047.56" />
+        <interior num="15" id="6" x="2308.79" y="-1212.88" z="1049.02" />
+        <interior num="16" id="1" x="2218.39" y="-1076.25" z="1050.48" />
+        <interior num="17" id="2" x="2237.52" y="-1081.64" z="1049.02" />
+        <interior num="18" id="9" x="2317.84" y="-1026.76" z="1050.21" />
+        <interior num="19" id="5" x="318.60" y="1114.48" z="1083.88" />
+        <!-- Specials -->
+        <interior num="20" id="5" x="1298.85" y="-797.01" z="1084.01" />
+        <!-- Mad Dogs -->
+        <interior num="21" id="1" x="-794.99" y="489.29" z="1376.20" />
+        <!-- Marco Bristo - LC -->
+        <interior num="22" id="18" x="1727.04" y="-1637.84" z="20.22" />
+        <!-- Atrium -->
+    </interiors>
+</homes>

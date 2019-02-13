@@ -1,0 +1,48 @@
+<players>
+    <player name="Cavorta">
+        <character name="Uncas Wolf" skin="114" cr="255" cg="0" cb="0" yasi="17" px="830.58984375" py="-2143.0068359375" pz="5.5725321769714" pi="0" pd="0" cash="9948999" bank="499781" health="93.333335876465" armor="0" house="8">
+            <weapons w="24" wammo="1" />
+        </character>
+    </player>
+    <player name="Hackan">
+        <character name="Jimmy_Cole" skin="109" cr="232" cg="31" cb="31" yasi="18" px="277.138671875" py="-1776.9208984375" pz="5.2635378837585" pi="15" pd="0" cash="446073" bank="1512" health="100.3921661377" armor="0" house="5">
+            <weapons w="0" wammo="1" />
+        </character>
+    </player>
+    <player name="Relax">
+        <character name="Brian Devis" skin="29" cr="0" cg="213" cb="255" yasi="18" px="2212.3935546875" py="-1132.2783203125" pz="26.625" pi="15" pd="0" cash="250" bank="5651500" health="100.3921661377" armor="0" house="7">
+            <weapons w="0" wammo="1" />
+        </character>
+    </player>
+    <player name="Webster">
+        <character name="Webster Millege" skin="23" cr="0" cg="213" cb="255" yasi="18" px="2033.419921875" py="-1415.439453125" pz="17.9921875" pi="0" pd="0" cash="250" bank="88399671" health="100.3921661377" armor="0" house="6">
+            <weapons w="0" wammo="1" />
+        </character>
+    </player>
+    <player name="emrkzl">
+        <character name="Emre Kizildas" skin="113" cr="255" cg="0" cb="0" yasi="17" px="298.875" py="-1786.5" pz="5.2147221565247" pi="0" pd="0" cash="137124" bank="1500000" health="91.764709472656" armor="0">
+            <weapons w="0" wammo="1" />
+        </character>
+    </player>
+    <player name="akinbey">
+        <character name="Peter Louis" skin="47" cr="125" cg="47" cb="47" yasi="17" px="1854.3046875" py="-1224.189453125" pz="19.091930389404" pi="0" pd="0" cash="81900" bank="1577074" health="61.960784912109" armor="0">
+            <weapons w="0" wammo="1" />
+        </character>
+    </player>
+    <player name="Kaancem">
+        <character name="Sam Winchester" skin="17" cr="125" cg="47" cb="47" yasi="17" px="2129.6259765625" py="-1130.3798828125" pz="26.809257507324" pi="0" pd="0" cash="45" bank="0" health="16.470588684082" armor="0">
+            <weapons w="0" wammo="1" />
+        </character>
+    </player>
+    <player name="Metehan">
+        <character name="Metehan Akbaba" skin="17" cr="125" cg="47" cb="47" yasi="17" px="520.4619140625" py="-194.7880859375" pz="37.199211120605" pi="0" pd="0" cash="24731" bank="18" health="61.960784912109" armor="0">
+            <weapons w="0" wammo="1" />
+        </character>
+    </player>
+    <player name="Respawn">
+        <character name="Jack Cole" skin="17" cr="125" cg="47" cb="47" yasi="17" px="-2030" py="1130" pz="70" pi="0" pd="0" cash="250" bank="18" health="100" armor="0">
+            <weapons w="0" wammo="1" />
+        </character>
+    </player>
+</players>
+<!--math.random(-2030,-2040),math.random (1130,1136),69-->

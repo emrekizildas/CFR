@@ -1,0 +1,95 @@
+<meta>
+	<info author="Cavorta" type="gamemode" version="0.1" />
+	
+	<!-- Server- Side -->
+	<script src="server.lua" type="server"/>
+	<script src="gui_s.lua" type="server"/>	
+	<script src="ozellik/wanted.lua" type="server" />
+	<script src="ozellik/kaput.lua" type="server" />
+	<script src="greenzone/greenzone.lua" type="server" />	
+    <script src="koprusistemi/kgs.lua" />	
+	<script src="akrobasi/trials_s.lua" type="server" />
+	<script src="antisistem/antisilah.lua" />
+	<script src="ozellik/unsorted.lua" type="server" />
+	<script src="kickstart/server.lua" type="server" />
+	<script src="ozellik/warpmarkers.lua" type="server" />
+	<script src="ozellik/clothesshop.lua" />
+	<script src="ozellik/sexshop.lua" />
+	<script src="ozellik/c_blips.lua" type="server" />
+	<script src="antisistem/anti_flood.lua" />
+	<script src="antisistem/anti_hack.lua"  type="server" />
+	<script src="ozellik/admins.lua" type="server" />
+	<script src="arabasist/engine.lua" type="server" />
+ 	<!--script src="carshopGUIser.lua" type="server" /-->	
+	<!--script src="ozellik/chat.lua" type="server" /-->	
+	<!--script src="karakter.lua" type="server"/-->
+	
+	<!-- Client-Side -->
+	
+	<script src="gui.lua" type="client"/>
+	<script src="radyo.lua" type="client"/>
+	<script src="greenzone/greenzoneC.lua" type="client" />
+	<!--script src="hizgost/speed_client.lua" type="client" /-->
+	<!--script src="vites/manual.lua" type="client" /-->
+	<script src="akrobasi/trials_c.lua" type="client" />
+	<script src="akrobasi/unsortedC.lua" type="client" />
+	<script src="ozellik/licht.lua" type="client" />
+	<script src="ozellik/loto.lua" type="client" />
+	
+	<!--script src="ozellik/c_radar.lua" type="client" /-->
+	
+	<!-- Config-SRC -->
+	
+	<config src="players.xml" />
+	<config src="homes.xml" />
+	<config src="carmissions.xml" />
+	<config src="banks.xml" />
+	<file src="anims.xml" />
+	
+	<!-- Resimler -->
+	
+	
+	
+	<file src="images/1.jpg"/>
+	<file src="images/2.jpg"/>
+	<file src="images/3.jpg"/>
+	<file src="images/4.jpg"/>
+	<file src="images/5.jpg"/>
+	<file src="images/6.jpg"/>
+	<file src="images/7.jpg"/>
+	<file src="images/8.jpg"/>
+	<file src="images/9.jpg"/>
+	<file src="images/10.jpg"/>
+	<file src="images/11.jpg"/>
+	<file src="images/off.jpg"/>
+	<file src="images/formust.png"/>
+	<file src="images/welcome.png"/>
+	<file src="images/giris.png"/>
+	
+	
+	
+	
+	
+	<file src="images/charselectwindow.png"/>
+	<file src="images/ev-mixed-mta.png"/>
+
+	
+   <!-- Maplar -->
+   
+	<map src="greenzone/greenzones.map" dimension="0" />
+	<map src="koprusistemi/KGS.map" dimension="0" />
+	<map src="kickstart/kickstart.map" dimension="10" />
+	
+
+	
+	<!-- AYARLAR -->
+	
+		<settings>
+		<setting name='*differenceBetweenMessages_ms' friendlyname='Time difference between messages' value='[6000]' desc='Amout of time (in milliseconds) that player has, to send specified amount of messages.' group='General' />
+		<setting name='*messagesNumber' friendlyname='Number of messages' value='[4]' desc='Amount of messages that player can send in specified amount of time.' group='General' />
+		<setting name="*mutePlayers" friendlyname="Mute players" value="true" accept="true,false" desc="Specifies if you want to mute players for flooding." group="Mute" />
+		<setting name="*muteTime" friendlyname="Time of player being muted" value="[30]" desc="Amount of time that player will be muted for. This setting is ignored if 'Mute players' setting is set to 'false'" group="Mute" />
+
+    </settings>
+	
+</meta>
