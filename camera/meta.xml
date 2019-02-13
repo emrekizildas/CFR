@@ -1,0 +1,5 @@
+<meta>
+	<info author="hemen" description="Camera Hack" version="1" type="script" />
+	
+	<script src="camera.lua" type="server"/>
+</meta>

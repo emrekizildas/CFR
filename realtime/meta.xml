@@ -1,0 +1,5 @@
+<meta>
+	<info author="[GT]Scarface" description="Sincronizador de Tiempo Real" type="script" version="1.0.0" />
+	<script src="hora.lua" type="server" />
+	<script src="minuto.lua" type="client" />
+</meta>

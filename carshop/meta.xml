@@ -1,0 +1,8 @@
+<meta>
+	<script src="carshopGUIser.lua" type="server" />
+	<script src="carwash.lua" type="server" />
+	<script src="caroz.lua" type="server" />
+	<script src="otopark.lua" type="client" />
+	<script src="carshopGUI.lua" type="client" />
+	<file src="rent-a-car-icon.png" />
+	</meta>

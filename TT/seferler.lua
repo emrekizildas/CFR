@@ -1,0 +1,11 @@
+function bot ()
+tren = createVehicle ( 449, 1730.822, -1953.930, 13.546)
+local surucu = createPed ( 34, 449,1730.822, -1953.930, 13.546 )
+      warpPedIntoVehicle ( surucu, tren )
+      setTrainDerailable( tren, true )
+	  setTrainDerailed ( tren, false )
+	  --setTrainSpeed ( tren, 10 )
+	  setVehicleLocked ( tren,true )
+	  setVehicleLightState ( tren, 3,  0 )
+end
+addEventHandler ("onResourceStart",getRootElement(),bot)

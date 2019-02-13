@@ -1,0 +1,10 @@
+<meta>
+<script src="blood_c.lua" type="client" />
+
+<file src="images/blood_1.png" />
+<file src="images/blood_2.png" />
+<file src="images/blood_3.png" />
+<file src="images/blood_4.png" />
+<file src="images/blood_5.png" />
+<file src="images/blood_6.png" />
+</meta>

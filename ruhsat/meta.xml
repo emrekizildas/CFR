@@ -1,0 +1,6 @@
+<meta>
+<script src="server.lua" type="server" />
+<script src="client.lua" type="client" />
+<file src="images/silah.png" />
+<file src="images/ehl.png" />
+</meta>

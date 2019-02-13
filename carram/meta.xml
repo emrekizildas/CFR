@@ -1,0 +1,4 @@
+<meta>
+	<info author="Nidza" name="Realistic Car Ramming BETA" version="0.1.2" type="script" />
+	<script src="carram.lua" type="client" />
+</meta>

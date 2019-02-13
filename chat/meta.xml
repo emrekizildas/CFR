@@ -1,0 +1,5 @@
+<meta>
+	<info author="Keven" name="Gangsta RPG chat system" version="0.1" type="script" />
+	<script src="server.lua" />
+	<script src="client.lua" />
+</meta>

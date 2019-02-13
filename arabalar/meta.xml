@@ -1,0 +1,15 @@
+<meta>
+<script src="client.lua" type="client" />
+<file src="data/elegant.txd" type="client" />
+<file src="data/elegant.dff" type="client" />
+<file src="data/fortune.txd" type="client" />
+<file src="data/fortune.dff" type="client" />
+<file src="data/moonbeam.txd" type="client" />
+<file src="data/moonbeam.dff" type="client" />
+<file src="data/premier.txd" type="client" />
+<file src="data/premier.dff" type="client" />
+<file src="data/tahoma.txd" type="client" />
+<file src="data/tahoma.dff" type="client" />
+<file src="data/tornado.txd" type="client" />
+<file src="data/tornado.dff" type="client" />
+</meta>

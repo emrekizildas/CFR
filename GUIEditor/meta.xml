@@ -1,0 +1,110 @@
+<meta>
+    <info author="Remp" name="GUI Editor" version="2.4.0" type="misc"/>
+	
+	<config src="help.xml" type="client"/>
+	
+	<script src="client.lua" type="client" />
+	<script src="server.lua" type="server" />
+	
+	<file src="help_documentation.xml"/>
+	<file src="cegui/cegui_widgets.xml"/>
+	<file src="cegui/cegui_property_descriptions.xml"/>
+	
+	<file src="dot.png"/>
+	<file src="red_dot.png"/>
+	<file src="blue_dot.png"/>
+	
+	<file src="images/mtalogo.png"/>
+	<file src="images/shruk.png"/>
+	<file src="images/logo.png"/>
+	<file src="images/img.png"/>
+	<file src="images/police.png"/>
+	<file src="images/welcome.png"/>
+	<file src="images/image1.png"/>
+	<file src="images/silah.png"/>
+	<file src="images/ehl.png"/>
+	
+	
+	
+	
+	<!-- food shop images -->
+	<file src="images/food/BURHEAL.png"/>
+	<file src="images/food/BURLOW.png"/>
+	<file src="images/food/BURMED.png"/>
+	<file src="images/food/BURHIG.png"/>
+	<file src="images/food/PIZHEAL.png"/>
+	<file src="images/food/PIZLOW.png"/>
+	<file src="images/food/PIZMED.png"/>
+	<file src="images/food/PIZHIG.png"/>
+	<file src="images/food/CLUHEAL.png"/>
+	<file src="images/food/CLULOW.png"/>
+	<file src="images/food/CLUMED.png"/>
+	<file src="images/food/CLUHIG.png"/>
+	
+	<!-- weapon images -->
+	<file src="images/ammu/AK47.png"/>
+	<file src="images/ammu/BAT.png"/>
+	<file src="images/ammu/BRASSKNUCKLES.png"/>
+	<file src="images/ammu/CAMERA.png"/>
+	<file src="images/ammu/CANE.png"/>
+	<file src="images/ammu/CHAINSAW.png"/>
+	<file src="images/ammu/COLT45.png"/>
+	<file src="images/ammu/COMBAT.png"/>
+	<file src="images/ammu/DEAGLE.png"/>
+	<file src="images/ammu/DETONATOR.png"/>
+	<file src="images/ammu/DILDO1.png"/>
+	<file src="images/ammu/DILDO2.png"/>
+	<file src="images/ammu/FIREEXT.png"/>
+	<file src="images/ammu/FLAMETHROWER.png"/>
+	<file src="images/ammu/FLOWERS.png"/>
+	<file src="images/ammu/GOLF.png"/>
+	<file src="images/ammu/GRENADE.png"/>
+	<file src="images/ammu/HEATSEEK.png"/>
+	<file src="images/ammu/IRGOGGLES.png"/>
+	<file src="images/ammu/JETPACK.png"/>
+	<file src="images/ammu/KATANA.png"/>
+	<file src="images/ammu/KNIFE.png"/>
+	<file src="images/ammu/M4.png"/>
+	<file src="images/ammu/MICROUZI.png"/>
+	<file src="images/ammu/MINIGUN.png"/>
+	<file src="images/ammu/MOLOTOV.png"/>
+	<file src="images/ammu/MP5.png"/>
+	<file src="images/ammu/NITESTICK.png"/>
+	<file src="images/ammu/NVGOGGLES.png"/>
+	<file src="images/ammu/PARACHUTE.png"/>
+	<file src="images/ammu/POOLCUE.png"/>
+	<file src="images/ammu/RIFLE.png"/>
+	<file src="images/ammu/ROCKETLAUNCHER.png"/>
+	<file src="images/ammu/SACHTEL.png"/>
+	<file src="images/ammu/SAWNOFF.png"/>
+	<file src="images/ammu/SHOTGUN.png"/>
+	<file src="images/ammu/SHOVEL.png"/>
+	<file src="images/ammu/SILENCED.png"/>
+	<file src="images/ammu/SNIPER.png"/>
+	<file src="images/ammu/SPRAYCAN.png"/>
+	<file src="images/ammu/TEARGAS.png"/>
+	<file src="images/ammu/TEC9.png"/>
+	<file src="images/ammu/VIBE1.png"/>
+	<file src="images/ammu/VIBE2.png"/>
+	
+    <script src="server/guieditor_s.lua"/>
+	
+    <script src="client/guieditor_misc_c.lua" type="client"/>
+	<script src="client/code_output_c.lua" type="client"/>
+	<script src="client/gui_properties_c.lua" type="client"/>
+	<script src="client/editor_help_c.lua" type="client"/>
+	<script src="client/load_gui_c.lua" type="client"/>
+	<script src="client/multiple_element_selection_c.lua" type="client"/>
+	<script src="client/element_alignment_c.lua" type="client"/>
+	<script src="client/copy_element_c.lua" type="client"/>
+	<script src="client/client_click_c.lua" type="client"/>
+	<script src="client/right_click_menus_c.lua" type="client"/>
+	<script src="client/sizing_and_positioning_c.lua" type="client"/>
+	<script src="client/right_click_options_c.lua" type="client"/>
+	<script src="client/tutorial_c.lua" type="client"/>
+	<script src="client/settings_c.lua" type="client"/>
+	<script src="client/undo_redo_c.lua" type="client"/>
+	<script src="client/sharing_c.lua" type="client"/>
+	
+	<script src="client/dx/dx_drawing_c.lua" type="client"/>
+</meta>

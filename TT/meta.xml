@@ -1,0 +1,6 @@
+<meta>
+<script src="tren.lua" type="server" />
+<script src="seferler.lua" type="server" />
+<script src="trenc.lua" type="client" />
+<file src="1-Normal-Train-icon.png" />
+</meta>
